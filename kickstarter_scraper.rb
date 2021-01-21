@@ -9,6 +9,8 @@ def create_project_hash
   binding.pry
 end
 
+create_project_hash
+
 # :projects => {
 #   "My Great Project"  => {
 #     :image_link => "Image Link",
